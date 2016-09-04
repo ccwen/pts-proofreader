@@ -1,0 +1,10 @@
+/* application css */
+#main {font-size:150%}
+.hl {color:red;}
+.tagmarker{font-size:50%;}
+.pbmarker{background: darkblue; border-radius:5px;color:white;}
+.paragraph{background: darkgreen; border-radius:5px;color:white;font-size:120%;}
+.footnote{background: pink; border-radius:50%;}
+.correction{color:darkgreen;}
+.warning {background:red;width:100%;color:yellow;}
+.sutta {font-size:135%;color:brown;}
